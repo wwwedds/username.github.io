@@ -17,6 +17,8 @@ module.exports = {
     sidebarDepth: 2,
     sidebar: [
           
-    ]
+    ],
+    
+serviceWorker: true
   }
 }
